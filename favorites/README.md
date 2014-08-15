@@ -17,6 +17,9 @@ Songs
 - [Jumper]() by **Third Eye Blind**
 - [Closing Time]() by **Semisonic**
 - [Mr. Jones]() by **Counting Crows**
+- [Big Yellow Taxi]() by **Counting Crows**
+- [A Long December]() by **Counting Crows**
+- [Round Here]() by **Counting Crows**
 - [November Rain]() by **Guns N' Roses**
 - [With Or Without You]() by **U2**
 - [Take On Me]() by **A-Ha**
@@ -34,3 +37,8 @@ Songs
 - [Only One]() by **Yellowcard**
 - [Anthem Of Our Dying Day]() by **Story Of The Year**
 - [What It Is To Burn]() by **Finch**
+- [I Caught Fire]() by **The Used**
+- [The Taste Of Ink]() by **The Used**
+- [The Bird And The Worm]() by **The Used**
+- [Hanging By a Moment]() by **Lifehouse**
+- [Smooth]() by **Santana**
