@@ -3,7 +3,7 @@ Books
 
 - [Love Rosie](http://majimboo.github.io/favorites/books/LoveRosie-CeceliaAhern.pdf) by **Cecelia Ahern**
 - [This Is Where I Leave You](http://majimboo.github.io/favorites/books/ThisIsWhereILeaveYou-JonathanTropper.pdf) by **Jonathan Tropper**
-
+- [Fifty Shades Freed](http://majimboo.github.io/favorites/books/FiftyShadesFreed-ELJames.pdf) by **Erika Leonard**
 
 Songs
 -----
